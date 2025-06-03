@@ -24,8 +24,18 @@
 
 ## 📈 GitHub Stats
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nstotar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nstotar&layout=compact&theme=radical)
+<h2 align="center">📈 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nstotar&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true" alt="Nishant's GitHub Stats" />
+</p>
+
+<h2 align="center">🗂️ Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstotar&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
 
 ---
 
@@ -36,14 +46,3 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/nstotar/
 
 ---
-
-## 🔥 Fun Facts
-
-- 🧠 Always curious to learn new technologies  
-- 🎓 Goal: Become a proficient full-stack developer   
-- 💬 Favorite Quote: *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-_Thanks for stopping by! Feel free to explore my repositories and connect with me for collaboration or feedback._  
-✨ **Let’s build something amazing together!**
