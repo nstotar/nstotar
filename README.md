@@ -22,15 +22,13 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<h2 align="center">📈 My GitHub Stats</h2>
+<h2 align="left">📈 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nstotar&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true" alt="Nishant's GitHub Stats" />
 </p>
 
-<h2 align="center">🗂️ Most Used Languages</h2>
+<h2 align="left">🗂️ Most Used Languages</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstotar&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
